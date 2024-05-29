@@ -579,6 +579,6 @@ resize: none;
     }
 }
 }
-.project-links ul a:hover{
+.project-links ul li a:hover{
 color: none;
 }
